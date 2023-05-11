@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/PortFolio_Varun/static/css/main.d2d48169.css",
+    "main.js": "/PortFolio_Varun/static/js/main.6c11ee3a.js",
+    "static/media/ak1.jpg": "/PortFolio_Varun/static/media/ak1.72b372666b5624c6e79a.jpg",
+    "static/media/ak.jpg": "/PortFolio_Varun/static/media/ak.db001f01c29a090efea1.jpg",
+    "static/media/web-removebg-preview.png": "/PortFolio_Varun/static/media/web-removebg-preview.9fed7f1d0b7ca01038fd.png",
+    "static/media/Web-designer-1024x821.webp": "/PortFolio_Varun/static/media/Web-designer-1024x821.6e57f7f5669037a83b03.webp",
+    "static/media/logor.png": "/PortFolio_Varun/static/media/logor.79880cc41de9b15f45b5.png",
+    "static/media/bars.svg": "/PortFolio_Varun/static/media/bars.a2e35dd5aede7934d82e.svg",
+    "index.html": "/PortFolio_Varun/index.html",
+    "main.d2d48169.css.map": "/PortFolio_Varun/static/css/main.d2d48169.css.map",
+    "main.6c11ee3a.js.map": "/PortFolio_Varun/static/js/main.6c11ee3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2d48169.css",
+    "static/js/main.6c11ee3a.js"
+  ]
+}
